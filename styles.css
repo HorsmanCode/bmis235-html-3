@@ -10,7 +10,7 @@
    ===================================================================== */
 
 body {
-    font-family: Georgia, "Times New Roman", serif;
+    font-family: Agency FB, "Agency FB", serif;
     background-color: #000000;
     color: #2b2b2b;
     margin: 0;
@@ -23,7 +23,7 @@ nav {
     padding: 14px;
     text-align: center;
 <div style="border: 10px white;">
-  This box has a solid blue border.
+  This box has a solid white border.
 </div>
 
 }
